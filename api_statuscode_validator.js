@@ -28,3 +28,5 @@ switch (status_code) {
   default:
     console.log("UNKNOWN - Unhandled status code");
 }
+
+console.log("Hello I have finished my code");
